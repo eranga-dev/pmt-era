@@ -92,4 +92,4 @@ PMT-ERA uses a combination of Hono.js and Appwrite:
 
 ---
 
-Built with ❤️ by the PMT-ERA Team
+Built with ❤️ by eranga.dev
